@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trading_system_uppgift", "Trading_system_uppgift.csproj", "{72925787-0DAC-8001-6548-152613C14854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72925787-0DAC-8001-6548-152613C14854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72925787-0DAC-8001-6548-152613C14854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72925787-0DAC-8001-6548-152613C14854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72925787-0DAC-8001-6548-152613C14854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A320D051-B587-43F3-931D-7DFCEF0B32FC}
+	EndGlobalSection
+EndGlobal
